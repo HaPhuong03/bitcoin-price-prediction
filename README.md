@@ -43,5 +43,5 @@ Các chỉ số đánh giá:
 
 ---
 
-*Được thực hiện như một phần của môn học Khai thác Dữ liệu - Đại học Quốc gia TP.HCM.*
+*Được thực hiện như một phần của môn học Khai thác Dữ liệu - Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TP.HCM.*
 
