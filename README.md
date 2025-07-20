@@ -11,11 +11,15 @@ Dự án sử dụng các kỹ thuật Machine Learning để phân tích và d�
 - BiLSTM
 - ARIMA
 - GRU
-- SVR
+- GPR
 - LightGBM-LSTM Stacking
+- SVR
+- RNN
 - Prophet
 - SARIMAX
+- SARIMAX + LSTM
 - Transformer
+- SARIMAX + Transformer
 - Diffusion-VAE
 
 ## 📊 Đánh giá mô hình
