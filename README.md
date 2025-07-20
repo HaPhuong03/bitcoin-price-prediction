@@ -28,13 +28,13 @@ Các chỉ số đánh giá:
 ## 📁 Nội dung chính
 - `Data_Visualization.ipynb`: Khám phá dữ liệu ban đầu
 - `LSTM.ipynb`, `BiLSTM.ipynb`, `ARIMA.ipynb`, `GRU.ipynb`, `LightGBM-LSTM_Stacking.ipynb`,`SVR.ipynb`,`RNN.ipynb`,`Prophet.ipynb`,`SARIMAX.ipynb`, `SARIMAX-LSTM.ipynb`, `Diffusion_VAE.ipynb` : Huấn luyện, dự báo và đánh giá hiệu suất các mô hình học máy
-- `BaoCaoKetQua.pdf`: Bài báo tổng hợp kết quả nghiên cứu, bao gồm:
-    1. Giới thiệu đề tài
-    2. Nghiên cứu liên quan
-    3. Các thuật toán sử dụng
-    4. Kết quả thực nghiệm (So sánh hiệu suất các mô hình dự đoán giá Bitcoin)
-    5. Kết luận
-  → Được trình bày theo định dạng bài báo khoa học chuẩn của Springer
+- `BaoCaoKetQua.pdf`: Bài báo tổng hợp kết quả nghiên cứu, bao gồm:  
+  1. Giới thiệu đề tài  
+  2. Nghiên cứu liên quan  
+  3. Các thuật toán sử dụng  
+  4. Kết quả thực nghiệm *(So sánh hiệu suất các mô hình dự đoán giá Bitcoin)*  
+  5. Kết luận  
+  → Được trình bày theo định dạng bài báo khoa học chuẩn của **Springer**
 
 
 ## ✅ Mục tiêu
